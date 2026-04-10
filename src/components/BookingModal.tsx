@@ -112,7 +112,7 @@ export default function BookingModal({ tour, onClose }: BookingModalProps) {
         {/* Header */}
         <div style={{ display: "flex", alignItems: "flex-start", justifyContent: "space-between", marginBottom: 24 }}>
           <div>
-            <div style={{ fontSize: 11, letter: "2px", color: "#2d9966", fontWeight: 600, marginBottom: 4, textTransform: "uppercase" }}>
+            <div style={{ fontSize: 11, letterSpacing: "2px", color: "#2d9966", fontWeight: 600, marginBottom: 4, textTransform: "uppercase" }}>
               🏔 {t.tours.bookingTitle}
             </div>
             <h2 style={{ fontSize: 20, fontWeight: 800, color: "white", lineHeight: 1.3 }}>
