@@ -3,11 +3,11 @@ import "./globals.css";
 import { LangProvider } from "@/context/LangContext";
 
 export const metadata: Metadata = {
-  title: "Altosh Travel — Туры по Казахстану",
-  description: "Откройте красоту Казахстана с Altosh Travel. Незабываемые туры по горам, озёрам и степям. Бронирование через WhatsApp.",
-  keywords: "туры Казахстан, отдых Казахстан, горные туры, Алтай, Балхаш, путешествия",
+  title: "Vostok Travel — Туры по Казахстану",
+  description: "Откройте красоту Казахстана с Vostok Travel. Незабываемые туры по горам, озёрам и степям. Бронирование через WhatsApp.",
+  keywords: "туры Казахстан, отдых Казахстан, горные туры, Алтай, Балхаш, Восток Тревел",
   openGraph: {
-    title: "Altosh Travel — Туры по Казахстану",
+    title: "Vostok Travel — Туры по Казахстану",
     description: "Незабываемые туры по горам, озёрам и степям Казахстана",
     type: "website",
   },

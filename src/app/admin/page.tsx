@@ -30,7 +30,7 @@ export default async function AdminDashboardPage() {
           Добро пожаловать 👋
         </h1>
         <p style={{ color: "rgba(255,255,255,0.4)", fontSize: 14 }}>
-          Панель управления Altosh Travel
+          Панель управления Vostok Travel
         </p>
       </div>
 

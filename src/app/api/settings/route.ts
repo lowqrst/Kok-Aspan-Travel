@@ -5,7 +5,7 @@ export async function GET() {
   let settings = await prisma.settings.findUnique({ where: { id: "main" } });
   if (!settings) {
     settings = await prisma.settings.create({
-      data: { id: "main", whatsappNum: "77059652303", companyName: "Altosh Travel" },
+      data: { id: "main", whatsappNum: "77059652303", companyName: "Vostok Travel" },
     });
   }
   return NextResponse.json(settings);

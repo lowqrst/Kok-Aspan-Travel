@@ -3,7 +3,7 @@ import "@/app/globals.css";
 import AdminSidebar from "@/components/admin/AdminSidebar";
 
 export const metadata: Metadata = {
-  title: "Admin — Altosh Travel",
+  title: "Admin — Vostok Travel",
   robots: "noindex",
 };
 

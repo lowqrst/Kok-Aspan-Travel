@@ -105,7 +105,7 @@ export default function AdminSettingsPage() {
               type="text"
               value={form.companyName}
               onChange={(e) => setForm((p) => ({ ...p, companyName: e.target.value }))}
-              placeholder="Altosh Travel"
+              placeholder="Vostok Travel"
               required
               className="input-dark"
             />

@@ -369,7 +369,7 @@ export default function HomePage() {
                   display: "flex", alignItems: "center", justifyContent: "center", fontSize: 18,
                 }}>🏔</div>
                 <div>
-                  <div style={{ fontWeight: 800, color: "white" }}>Altosh Travel</div>
+                  <div style={{ fontWeight: 800, color: "white" }}>Vostok Travel</div>
                   <div style={{ fontSize: 11, color: "#2d9966", letterSpacing: 2 }}>КАЗАХСТАН</div>
                 </div>
               </div>
@@ -425,7 +425,7 @@ export default function HomePage() {
             gap: 12,
           }}>
             <p style={{ color: "rgba(255,255,255,0.25)", fontSize: 13 }}>
-              © 2024 Altosh Travel. {t.footer.rights}.
+              © 2024 Vostok Travel. {t.footer.rights}.
             </p>
             <div style={{ color: "rgba(255,255,255,0.25)", fontSize: 13 }}>
               Сделано с ❤️ в Казахстане

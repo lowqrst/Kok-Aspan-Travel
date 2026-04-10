@@ -60,7 +60,7 @@ export default function AdminLoginPage() {
             🏔
           </div>
           <h1 style={{ fontSize: 22, fontWeight: 800, color: "white", marginBottom: 6 }}>
-            Altosh Travel
+            Vostok Travel
           </h1>
           <p style={{ color: "rgba(255,255,255,0.4)", fontSize: 14 }}>
             Панель администратора

@@ -19,7 +19,7 @@ async function main() {
     create: {
       id: "main",
       whatsappNum: "77059652303",
-      companyName: "Altosh Travel",
+      companyName: "Vostok Travel",
       contactInfo: "Казахстан",
     },
   });
